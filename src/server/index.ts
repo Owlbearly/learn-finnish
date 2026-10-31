@@ -23,6 +23,7 @@ const server = Bun.serve({
   port: PORT,
   routes: {
     "/": index,
+    "/api/health": () => json({ ok: true, sentences: engine.content.sentences.size }),
     "/api/users": {
       GET: () => json(engine.listUsers()),
       POST: async (req) => {

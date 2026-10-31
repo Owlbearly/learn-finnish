@@ -20,6 +20,25 @@ bun run validate   # prüft alle Inhalte (Lücken, Lexikon-Abdeckung, IDs, Texte
 bun run typecheck
 ```
 
+## Deployment (Docker / Coolify)
+
+Das `Dockerfile` baut ein schlankes Image auf Basis von `oven/bun`. Beim Build werden die Inhalte validiert und die Tests ausgeführt; schlägt etwas fehl, wird nicht deployt.
+
+In Coolify:
+1. Neue Ressource aus dem Git-Repository anlegen, **Build Pack: Dockerfile**.
+2. **Port 3000** freigeben (Ports Exposes: `3000`).
+3. **Persistent Storage** hinzufügen: Volume mit Ziel `/app/data`. Dort liegt die SQLite-Datenbank mit den Lernständen. Ohne Volume gehen sie bei jedem Deploy verloren.
+4. Optional: Domain eintragen. Der Healthcheck läuft über `/api/health` und ist im Image enthalten.
+
+Umgebungsvariablen (optional): `PORT` (Standard 3000), `DB_PATH` (Standard `/app/data/learn-finnish.sqlite`).
+
+Lokal testen:
+
+```bash
+docker build -t sisu .
+docker run -p 3000:3000 -v sisu-data:/app/data sisu
+```
+
 ## Was die App kann
 
 **Inhalte (Datenbank):** über 30 Themen. Jedes Thema hat eine eigene Grammatik-Erklärung mit Tabellen.
