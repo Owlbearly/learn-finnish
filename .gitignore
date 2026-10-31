@@ -1,5 +1,5 @@
 node_modules
 *.sqlite
 *.sqlite-*
-data/
+/data/
 .DS_Store
