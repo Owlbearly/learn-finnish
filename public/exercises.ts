@@ -382,7 +382,7 @@ function pairsView(ex: Exercise, ctx: Ctx): ExView {
 function readingView(ex: Exercise, ctx: Ctx): ExView {
   const r = ex.reading!;
   const paras = r.fi.split(/\n\s*\n/);
-  const textEl = h("div", { class: "reading-text" }, paras.map((p) => h("p", null, sentenceEl(p, ex.help.gloss, { cls: "small" }).childNodes as any)));
+  const textEl = h("div", { class: "reading-text" }, paras.map((p) => h("p", null, Array.from(sentenceEl(p, ex.help.gloss, { cls: "small" }).childNodes))));
   const deEl = h("div", { class: "reading-de hidden" }, r.de.split(/\n\s*\n/).map((p) => h("p", null, p)));
   const sp = speakButtons(r.fi.replace(/\n+/g, " "));
   const qWrap = h("div");

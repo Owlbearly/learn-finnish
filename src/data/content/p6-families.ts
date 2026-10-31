@@ -1375,5 +1375,777 @@ Achtung: Auf Deutsch kauft man etwas „im Laden“, auf Finnisch **aus dem Lade
   ],
 
   lexicon: `
+# --- fam-kirja ---
+lainaan | lainata | (aus)leihen | Verb Typ 4, Präsens 1. Sg. (minä); Stufenwechsel: lainata → lainaan
+kirjan | kirja | Buch | Akkusativ/Genitiv Sg. (-n): ganzes Objekt
+kirjastosta | kirjasto | Bibliothek | Elativ (-sta: „aus“)
+kirjasto | kirjasto | Bibliothek | Nominativ Sg.; kirja + -sto (Sammlung)
+on | olla | sein | Präsens 3. Sg. (hän on); auch „haben“ in jollakulla on
+auki | auki | offen, geöffnet | Adverb
+maanantaista | maanantai | Montag | Elativ (-sta): „von (Montag)“
+perjantaihin | perjantai | Freitag | Illativ (-hin): „bis (Freitag)“
+kirjoitan | kirjoittaa | schreiben | Verb Typ 1, Präsens 1. Sg.; Stufenwechsel tt → t
+kirjettä | kirje | Brief | Partitiv Sg. (-ttä): unabgeschlossene Handlung
+isoäidilleni | isoäiti | Großmutter | Allativ (-lle: „an, für“) + -ni „meine“; Stufenwechsel t → d
+suomen | suomi | Finnisch; Finnland | Genitiv Sg. (-n); Stamm suome-
+aakkosissa | aakkoset | Alphabet | Inessiv Plural (-issa: „in“); Pluralwort
+kirjainta | kirjain | Buchstabe | Partitiv Sg. (nach Zahlen)
+tove | Tove | Tove | Vorname
+jansson | Jansson | Jansson | Nachname (Tove Jansson, Mumins-Autorin)
+oli | olla | sein | Imperfekt 3. Sg. (hän oli = war)
+sekä | sekä | sowohl; und | Konjunktion: sekä … että = sowohl … als auch
+taiteilija | taiteilija | Künstler(in) | Nominativ Sg.; taide + -ilija (Person)
+että | että | dass; (sekä …) als auch | Konjunktion
+kirjailija | kirjailija | Schriftsteller(in) | Nominativ Sg.; kirja + -ilija (Person)
+kirjoita | kirjoittaa | schreiben | Imperativ 2. Sg. („schreib!“); Stufenwechsel tt → t
+nimesi | nimi | Name | Akkusativ Sg. + -si „dein“; Stamm nime-
+isoilla | iso | groß | Adessiv Plural (-illa: „mit“ als Mittel)
+kirjaimilla | kirjain | Buchstabe | Adessiv Plural (-illa: „mit“); Stamm kirjaime-
+lähetin | lähettää | schicken | Imperfekt 1. Sg.; Stufenwechsel tt → t
+sinulle | sinä | du | Allativ (-lle: „dir“)
+kirjeen | kirje | Brief | Akkusativ/Genitiv Sg. (-n); Stamm kirjee-
+viime | viime | letzte(r) | unveränderliches Adjektiv: viime viikolla = letzte Woche
+viikolla | viikko | Woche | Adessiv (-lla): Zeitangabe; Stufenwechsel kk → k
+kirjoitus | kirjoitus | Text, Artikel, Aufsatz | Nominativ Sg.; kirjoittaa + -us (Ergebnis)
+julkaistiin | julkaista | veröffentlichen | Passiv Imperfekt („wurde veröffentlicht“)
+eilen | eilen | gestern | Adverb
+lehdessä | lehti | Zeitung; Blatt | Inessiv (-ssä: „in“); Stufenwechsel ht → hd
+opiskelen | opiskella | studieren, lernen | Verb Typ 3, Präsens 1. Sg.
+suomalaista | suomalainen | finnisch | Partitiv Sg. (-sta; Stamm suomalais-)
+kirjallisuutta | kirjallisuus | Literatur | Partitiv Sg. (-uutta)
+yliopistossa | yliopisto | Universität | Inessiv (-ssa: „an/in“)
+kirjastossa | kirjasto | Bibliothek | Inessiv (-ssa: „in“)
+pitää | pitää | müssen; mögen; halten | hier: pitää + Infinitiv = „man muss“
+olla | olla | sein | Infinitiv (A-Infinitiv)
+hiljaa | hiljaa | leise, still | Adverb: olla hiljaa = still sein
+lapsi | lapsi | Kind | Nominativ Sg.; Stamm lapse-
+osaa | osata | können (gelernt) | Verb Typ 4, Präsens 3. Sg.
+jo | jo | schon | Adverb
+kirjoittaa | kirjoittaa | schreiben | Infinitiv bzw. Präsens 3. Sg. (hän kirjoittaa)
+oman | oma | eigen | Akkusativ/Genitiv Sg. (-n)
+nimensä | nimi | Name | Akkusativ Sg. + -nsa „sein/ihr“
+kuka | kuka | wer | Fragepronomen, Nominativ
+lempikirjailijasi | lempikirjailija | Lieblingsschriftsteller(in) | lempi- „Lieblings-“ + kirjailija + -si „dein“
+uutta | uusi | neu | Partitiv Sg.; Stamm uude-/uut-
+kirjaa | kirja | Buch | Partitiv Sg. (-a)
+kesämökillään | kesämökki | Sommerhaus | Adessiv (-lla) + -än „sein/ihr“; Stufenwechsel kk → k
+kirjaston | kirjasto | Bibliothek | Genitiv Sg. (-n: „der Bibliothek“)
+kirjat | kirja | Buch | Nominativ Plural (-t)
+palautettava | palauttaa | zurückgeben | Passivpartizip Präsens (-ttava): on palautettava = muss zurückgegeben werden
+kolmen | kolme | drei | Genitiv (-n)
+viikon | viikko | Woche | Genitiv Sg. (-n); Stufenwechsel kk → k
+kuluessa | kulua | vergehen | 2. Infinitiv Inessiv: … kuluessa = innerhalb von
+hän | hän | er, sie | Personalpronomen 3. Sg.
+kirjoittanut | kirjoittaa | schreiben | Partizip Perfekt Sg. (-nut): on kirjoittanut = hat geschrieben
+kirjeitä | kirje | Brief | Partitiv Plural (-itä)
+koko | koko | ganz | unveränderlich: koko päivä = den ganzen Tag
+ikänsä | ikä | Alter; Leben(szeit) | Akkusativ + -nsa „sein/ihr“: koko ikänsä = sein Leben lang
+# --- fam-oppia ---
+opettaja | opettaja | Lehrer(in) | Nominativ Sg.; opettaa + -ja (Person)
+opettaa | opettaa | lehren, beibringen | Präsens 3. Sg. / Infinitiv; Kausativ von oppia
+meille | me | wir | Allativ (-lle: „uns“)
+suomea | suomi | Finnisch | Partitiv Sg. (-a); Sprachen nach puhua/opettaa im Partitiv
+oppi | oppia | lernen | Imperfekt 3. Sg. (hän oppi); auch Nomen „Lehre“
+uimaan | uida | schwimmen | 3. Infinitiv Illativ (-maan): oppia uimaan
+kesänä | kesä | Sommer | Essiv (-nä): viime kesänä = letzten Sommer
+oppilaat | oppilas | Schüler(in) | Nominativ Plural; Stamm oppilaa-
+istuvat | istua | sitzen | Präsens 3. Pl. (he istuvat)
+luokassa | luokka | Klasse(nzimmer) | Inessiv; Stufenwechsel kk → k
+veljeni | veli | Bruder | Nominativ + -ni „mein“; Stamm velje-
+opiskelija | opiskelija | Student(in) | Nominativ Sg.; opiskella + -ja (Person)
+tampereella | Tampere | Tampere | Adessiv (-lla); Tampere hat Außenortskasus
+olen | olla | sein | Präsens 1. Sg. (minä olen)
+ja | ja | und | Konjunktion
+kemiaa | kemia | Chemie | Partitiv Sg. (-a)
+ensimmäinen | ensimmäinen | erste(r) | Ordinalzahl, Nominativ
+oppitunti | oppitunti | Unterrichtsstunde | Nominativ Sg.; oppi + tunti
+alkaa | alkaa | beginnen | Präsens 3. Sg.
+kahdeksalta | kahdeksan | acht | Ablativ (-lta): Uhrzeit „um acht“
+unohdin | unohtaa | vergessen | Imperfekt 1. Sg.; Stufenwechsel ht → hd
+oppikirjani | oppikirja | Lehrbuch | Akkusativ + -ni „mein“
+kotiin | koti | Zuhause | Illativ (-in: „nach Hause“)
+kysyi | kysyä | fragen | Imperfekt 3. Sg.
+oppilaalta | oppilas | Schüler(in) | Ablativ (-lta: „von“); kysyä joltakulta
+kysymyksen | kysymys | Frage | Akkusativ Sg. (-n); Stamm kysymykse-
+opetti | opettaa | lehren, beibringen | Imperfekt 3. Sg.; Stufenwechsel tt → t
+shakkia | shakki | Schach | Partitiv Sg. (-a)
+kaikki | kaikki | alle | Pronomen, Nominativ Plural
+opiskelijat | opiskelija | Student(in) | Nominativ Plural (-t)
+eivät | ei (Verneinungsverb) | nicht | Verneinungsverb, 3. Pl. (he eivät …)
+asu | asua | wohnen | verneinte Form (ei asu)
+kampuksella | kampus | Campus | Adessiv (-lla: „auf“); Stamm kampukse-
+virheistä | virhe | Fehler | Elativ Plural (-istä: „aus“); Stamm virhee-
+oppii | oppia | lernen | Präsens 3. Sg. (auch Nullperson „man lernt“)
+opiskelee | opiskella | studieren | Präsens 3. Sg.
+opettajaksi | opettaja | Lehrer(in) | Translativ (-ksi: „zu … werden“)
+jos | jos | wenn, falls | Konjunktion
+olisin | olla | sein | Konditional 1. Sg. („ich wäre / hätte“)
+oppinut | oppia | lernen | Partizip Perfekt Sg. (-nut)
+ruotsia | ruotsi | Schwedisch | Partitiv Sg. (-a)
+lapsena | lapsi | Kind | Essiv (-na): „als Kind“
+puhuisin | puhua | sprechen | Konditional 1. Sg. (-isi-): „ich würde sprechen“
+sitä | se | es | Partitiv Sg.
+nyt | nyt | jetzt | Adverb
+sujuvasti | sujuva | fließend | Adverb (-sti)
+opiskelijoiden | opiskelija | Student(in) | Genitiv Plural (-oiden)
+mielestä | mieli | Sinn, Meinung | Elativ: jonkun mielestä = nach jemandes Meinung
+oppitunnit | oppitunti | Unterrichtsstunde | Nominativ Plural; Stufenwechsel nt → nn
+olivat | olla | sein | Imperfekt 3. Pl. (he olivat)
+liian | liian | zu (sehr) | Adverb
+pitkiä | pitkä | lang | Partitiv Plural (-iä)
+uuden | uusi | neu | Genitiv Sg.; Stamm uude-
+kielen | kieli | Sprache | Genitiv Sg.; Stamm kiele-
+oppiminen | oppiminen | das Lernen | Nominativ; oppia + -minen
+vaatii | vaatia | erfordern, verlangen | Präsens 3. Sg.
+aikaa | aika | Zeit | Partitiv Sg.
+kärsivällisyyttä | kärsivällisyys | Geduld | Partitiv Sg. (-yyttä)
+# --- fam-puhua ---
+puhutko | puhua | sprechen | Präsens 2. Sg. + Fragepartikel -ko
+englantia | englanti | Englisch | Partitiv Sg.
+puhelimeni | puhelin | Telefon | Nominativ + -ni „mein“; Stamm puhelime-
+rikki | rikki | kaputt | Adverb (olla rikki = kaputt sein)
+minä | minä | ich | Personalpronomen 1. Sg.
+puhun | puhua | sprechen | Präsens 1. Sg.
+vähän | vähän | ein bisschen, wenig | Adverb
+soitin | soittaa | anrufen; spielen | Imperfekt 1. Sg.; Stufenwechsel tt → t (Achtung: soitin ist auch das Nomen „Instrument“)
+mutta | mutta | aber | Konjunktion
+et | ei (Verneinungsverb) | nicht | Verneinungsverb, 2. Sg. (sinä et …)
+vastannut | vastata | antworten | Partizip Perfekt (-nnut): et vastannut = du hast nicht geantwortet
+puheluun | puhelu | Anruf | Illativ (-un): vastata + Illativ
+puheen | puhe | Rede | Akkusativ/Genitiv Sg.; Stamm puhee-
+häissä | häät | Hochzeit | Inessiv Plural; häät ist ein Pluralwort
+puhelinnumeroni | puhelinnumero | Telefonnummer | Nominativ + -ni „meine“
+muuttunut | muuttua | sich ändern | Partizip Perfekt: on muuttunut = hat sich geändert
+isoäiti | isoäiti | Großmutter | Nominativ Sg.
+hyvin | hyvin | sehr; gut | Adverb
+puhelias | puhelias | gesprächig | Adjektiv, Nominativ Sg.; Stamm puheliaa-
+ihminen | ihminen | Mensch | Nominativ Sg.
+puhuja | puhuja | Redner(in) | Nominativ Sg.; puhua + -ja (Person)
+kiitti | kiittää | danken | Imperfekt 3. Sg.; kiittää + Partitiv
+lopuksi | loppu | Ende | Translativ als Adverb: „zum Schluss“
+yleisöä | yleisö | Publikum | Partitiv Sg.
+älä | ei (Verneinungsverb) | nicht | verneinter Imperativ 2. Sg. („tu nicht!“)
+puhu | puhua | sprechen | Verbstamm nach älä (verneinter Imperativ)
+puhelimeen | puhelin | Telefon | Illativ (-een); puhua puhelimeen = telefonieren
+ruokapöydässä | ruokapöytä | Esstisch | Inessiv; Stufenwechsel t → d
+kokouksen | kokous | Sitzung, Versammlung | Genitiv bzw. Akkusativ Sg.; Stamm kokoukse-
+puheenjohtaja | puheenjohtaja | Vorsitzende(r) | Nominativ Sg.; puheen + johtaja
+avasi | avata | öffnen, eröffnen | Imperfekt 3. Sg.
+kello | kello | Uhr | kello + Zahl = „… Uhr“
+yhdeksän | yhdeksän | neun | Grundzahl
+puhelu | puhelu | Anruf, Telefonat | Nominativ Sg.; puhua + -lu
+kesti | kestää | dauern | Imperfekt 3. Sg.
+melkein | melkein | fast | Adverb
+tunnin | tunti | Stunde | Akkusativ Sg. (Dauer); Stufenwechsel nt → nn
+puhuimme | puhua | sprechen | Imperfekt 1. Pl.
+illan | ilta | Abend | Akkusativ Sg. (Dauer: koko illan = den ganzen Abend); Stufenwechsel lt → ll
+matkasuunnitelmistamme | matkasuunnitelma | Reiseplan | Elativ Plural (-ista) + -mme „unsere“
+hänen | hän | er, sie | Genitiv („sein/ihr“)
+puheensa | puhe | Rede | Nominativ + -nsa „sein/ihr“
+teki | tehdä | machen | Imperfekt 3. Sg.
+minuun | minä | ich | Illativ: „auf mich“
+suuren | suuri | groß | Akkusativ Sg.; Stamm suure-
+vaikutuksen | vaikutus | Eindruck, Wirkung | Akkusativ Sg.; Stamm vaikutukse-
+olisit | olla | sein | Konditional 2. Sg. („du wärst / hättest“)
+puhunut | puhua | sprechen | Partizip Perfekt Sg.
+minulle | minä | ich | Allativ: „mir“
+aiemmin | aiemmin | früher | Adverb (Komparativ)
+voinut | voida | können | Partizip Perfekt
+auttaa | auttaa | helfen | Infinitiv; auttaa + Partitiv
+sinua | sinä | du | Partitiv
+puhelimet | puhelin | Telefon | Nominativ Plural; Stamm puhelime-
+suljettava | sulkea | schließen; ausschalten | Passivpartizip -ttava: on suljettava = muss ausgeschaltet werden; Stufenwechsel k → j
+esityksen | esitys | Vorstellung | Genitiv Sg.; Stamm esitykse-
+ajaksi | aika | Zeit | Translativ: jonkin ajaksi = für die Dauer von; Stufenwechsel k → j
+# --- fam-tyo ---
+menen | mennä | gehen | Präsens 1. Sg.
+töihin | työ | Arbeit | Illativ Plural: „zur Arbeit“; yö → ö im Plural
+bussilla | bussi | Bus | Adessiv (-lla): Verkehrsmittel „mit dem Bus“
+töissä | työ | Arbeit | Inessiv Plural: „bei der Arbeit“
+neljään | neljä | vier | Illativ: kello neljään asti = bis vier Uhr
+asti | asti | bis | Postposition nach Illativ
+työpäivä | työpäivä | Arbeitstag | Nominativ Sg.; työ + päivä
+työskentelee | työskennellä | arbeiten | Präsens 3. Sg.; Stufenwechsel nn → nt
+sairaalassa | sairaala | Krankenhaus | Inessiv (-ssa: „in“)
+ennen | ennen | vor; früher | Präposition mit Partitiv
+suomeen | Suomi | Finnland | Illativ (-en: „nach“); Stamm Suome-
+muuttoa | muutto | Umzug | Partitiv Sg. (nach ennen)
+työskentelin | työskennellä | arbeiten | Imperfekt 1. Sg.; Stufenwechsel nn → nt
+saksassa | Saksa | Deutschland | Inessiv (-ssa: „in“)
+kolme | kolme | drei | Grundzahl
+vuotta | vuosi | Jahr | Partitiv Sg. (nach Zahlen)
+ollut | olla | sein | Partizip Perfekt: on ollut = ist gewesen
+työtön | työtön | arbeitslos | Adjektiv; työ + -tön (ohne)
+puoli | puoli | halb | puoli vuotta = ein halbes Jahr
+etsii | etsiä | suchen | Präsens 3. Sg.; immer mit Partitivobjekt
+työpaikkaa | työpaikka | Arbeitsplatz, Stelle | Partitiv Sg.
+yrityksessä | yritys | Firma | Inessiv; Stamm yritykse-
+kaksisataa | kaksisataa | zweihundert | Grundzahl (kaksi + sataa)
+työntekijää | työntekijä | Arbeitnehmer(in) | Partitiv Sg. (nach Zahlen)
+työttömyys | työttömyys | Arbeitslosigkeit | Nominativ; työtön + -yys
+kasvanut | kasvaa | wachsen, steigen | Partizip Perfekt: on kasvanut
+vuosina | vuosi | Jahr | Essiv Plural: viime vuosina = in den letzten Jahren
+muutto | muutto | Umzug | Nominativ Sg.
+työläs | työläs | mühsam | Adjektiv; työ + -läs
+onnistunut | onnistunut | gelungen, erfolgreich | Partizip Perfekt von onnistua als Adjektiv
+työn | työ | Arbeit | Genitiv Sg. (vor jälkeen)
+jälkeen | jälkeen | nach | Postposition mit Genitiv
+menemme | mennä | gehen | Präsens 1. Pl.
+usein | usein | oft | Adverb
+saunaan | sauna | Sauna | Illativ (-an: „in … hinein“)
+työttömien | työtön | arbeitslos; Arbeitsloser | Genitiv Plural; Stamm työttömä-
+määrä | määrä | Menge, Zahl | Nominativ Sg.
+laskenut | laskea | sinken; zählen | Partizip Perfekt: on laskenut = ist gesunken
+tänä | tämä | dieser | Essiv: tänä vuonna = dieses Jahr
+vuonna | vuosi | Jahr | Essiv: tänä vuonna = in diesem Jahr
+monet | moni | viele | Nominativ Plural
+työntekijät | työntekijä | Arbeitnehmer(in) | Nominativ Plural
+haluaisivat | haluta | wollen | Konditional 3. Pl.: „würden gern“
+tehdä | tehdä | machen, tun | Infinitiv
+etätöitä | etätyö | Fernarbeit, Homeoffice | Partitiv Plural; etä- „fern“ + työ
+kotoa | koti | Zuhause | alte Separativ-Sonderform: „von zu Hause“ (vgl. kotona, kotiin)
+käsin | käsin | von … aus | Postposition: kotoa käsin = von zu Hause aus
+työpaikan | työpaikka | Arbeitsplatz | Genitiv Sg. (Objekt vor -minen); Stufenwechsel kk → k
+menettäminen | menettää | verlieren | -minen-Substantiv: „das Verlieren“
+voi | voida | können | Präsens 3. Sg.
+raskas | raskas | schwer, belastend | Adjektiv, Nominativ
+kokemus | kokemus | Erfahrung | Nominativ Sg.
+vaikka | vaikka | obwohl | Konjunktion
+pitkä | pitkä | lang | Adjektiv, Nominativ
+jaksoi | jaksaa | die Kraft haben | Imperfekt 3. Sg.
+vielä | vielä | noch | Adverb
+lähteä | lähteä | losgehen, aufbrechen | Infinitiv
+lenkille | lenkki | Runde (Joggen, Spaziergang) | Allativ: lähteä lenkille = eine Runde laufen gehen
+# --- fam-matka ---
+hyvää | hyvä | gut | Partitiv Sg. (in Wünschen)
+matkaa | matka | Reise | Partitiv Sg. (in Wünschen)
+matkustamme | matkustaa | reisen | Präsens 1. Pl.
+kesällä | kesä | Sommer | Adessiv: „im Sommer“
+lappiin | Lappi | Lappland | Illativ (-iin: „nach“)
+matkalaukkuni | matkalaukku | Koffer | Nominativ + -ni „mein“
+painava | painava | schwer | Adjektiv, Nominativ
+ostin | ostaa | kaufen | Imperfekt 1. Sg.
+matkalipun | matkalippu | Fahrkarte | Akkusativ Sg.; Stufenwechsel pp → p
+netistä | netti | Internet | Elativ (-stä); Stufenwechsel tt → t
+matka | matka | Reise, Strecke | Nominativ Sg.
+helsingistä | Helsinki | Helsinki | Elativ (-stä: „aus/von“); Stufenwechsel nk → ng
+tampereelle | Tampere | Tampere | Allativ (-lle: „nach“)
+kestää | kestää | dauern | Präsens 3. Sg.
+junalla | juna | Zug | Adessiv: „mit dem Zug“
+noin | noin | etwa, ungefähr | Adverb
+puolitoista | puolitoista | anderthalb | Zahlwort; danach Partitiv
+tuntia | tunti | Stunde | Partitiv Sg. (nach Zahlen)
+junassa | juna | Zug | Inessiv: „im Zug“
+paljon | paljon | viel(e) | Mengenwort, danach Partitiv
+matkustajia | matkustaja | Reisende(r), Fahrgast | Partitiv Plural
+matkailu | matkailu | Tourismus | Nominativ Sg.; matka + -ilu
+tärkeä | tärkeä | wichtig | Adjektiv, Nominativ
+ala | ala | Branche, Bereich | Nominativ Sg.
+lapissa | Lappi | Lappland | Inessiv; Stufenwechsel pp → p
+olin | olla | sein | Imperfekt 1. Sg.
+matkalla | matka | Reise, Weg | Adessiv: olla matkalla = unterwegs sein
+kun | kun | als; wenn | Konjunktion
+bussi | bussi | Bus | Nominativ Sg.
+hajosi | hajota | kaputtgehen | Imperfekt 3. Sg.
+kesäisin | kesä | Sommer | Instruktiv Plural: „sommers, im Sommer (regelmäßig)“
+tulee | tulla | kommen | Präsens 3. Sg.
+ulkomaisia | ulkomainen | ausländisch | Partitiv Plural
+matkailijoita | matkailija | Tourist(in) | Partitiv Plural
+matkustin | matkustaa | reisen | Imperfekt 1. Sg.
+nuorena | nuori | jung | Essiv: „als junger Mensch“
+yksin | yksin | allein | Adverb
+pyydetään | pyytää | bitten | Passiv Präsens: „man bittet / werden gebeten“; Stufenwechsel t → d
+siirtymään | siirtyä | sich begeben, wechseln | 3. Infinitiv Illativ (-mään)
+raiteelle | raide | Gleis | Allativ: „zu Gleis“; Stamm raitee-
+matkustanut | matkustaa | reisen | Partizip Perfekt
+liput | lippu | Fahrkarte; Fahne | Nominativ Plural; Stufenwechsel pp → p
+olisi | olla | sein | Konditional 3. Sg. (auch nach eivät: eivät olisi)
+olleet | olla | sein | Partizip Perfekt Plural
+niin | niin | so | Adverb
+kalliita | kallis | teuer | Partitiv Plural; Stamm kallii-
+lentäminen | lentää | fliegen | -minen-Substantiv: „das Fliegen“
+nopein | nopea | schnell | Superlativ, Nominativ: „schnellste“
+ei | ei (Verneinungsverb) | nicht | Verneinungsverb, 3. Sg.; auch „nicht“ vor Adjektiven
+ympäristöystävällisin | ympäristöystävällinen | umweltfreundlich | Superlativ, Nominativ: „umweltfreundlichste“
+tapa | tapa | Art, Weise; Gewohnheit | Nominativ Sg.
+matkustaa | matkustaa | reisen | Infinitiv
+kuinka | kuinka | wie | Fragewort
+asemalle | asema | Bahnhof | Allativ: „zum Bahnhof“
+# --- fam-asua ---
+asun | asua | wohnen | Präsens 1. Sg.
+helsingissä | Helsinki | Helsinki | Inessiv; Stufenwechsel nk → ng
+asuntomme | asunto | Wohnung | Nominativ + -mme „unsere“
+kolmannessa | kolmas | dritte(r) | Inessiv; Stamm kolmanne-
+kerroksessa | kerros | Stockwerk | Inessiv; Stamm kerrokse-
+missä | missä | wo | Fragewort (Inessiv von mikä)
+sinä | sinä | du | Personalpronomen 2. Sg.
+asut | asua | wohnen | Präsens 2. Sg.
+etsimme | etsiä | suchen | Präsens 1. Pl.
+isompaa | iso | groß | Komparativ (isompi), Partitiv Sg.
+asuntoa | asunto | Wohnung | Partitiv Sg.
+asunnossa | asunto | Wohnung | Inessiv; Stufenwechsel nt → nn
+kaksi | kaksi | zwei | Grundzahl
+huonetta | huone | Zimmer | Partitiv Sg. (nach Zahlen); Stamm huonee-
+keittiö | keittiö | Küche | Nominativ Sg.
+talon | talo | Haus | Genitiv Sg.
+asukkaat | asukas | Bewohner(in) | Nominativ Plural; Stamm asukkaa-
+kokoontuvat | kokoontua | sich versammeln | Präsens 3. Pl.
+kerran | kerta | Mal | Akkusativ: „einmal“; Stufenwechsel rt → rr
+vuodessa | vuosi | Jahr | Inessiv: kerran vuodessa = einmal im Jahr
+lahdessa | Lahti | Lahti (Stadt) | Inessiv; Stufenwechsel ht → hd
+asukasta | asukas | Einwohner(in) | Partitiv Sg. (nach Zahlen)
+asuin | asua | wohnen | Imperfekt 1. Sg. („ich wohnte“); auch Bestimmungswort asuin- „Wohn-“
+pienessä | pieni | klein | Inessiv; Stamm piene-
+kylässä | kylä | Dorf | Inessiv
+tämä | tämä | dies(er) | Demonstrativpronomen, Nominativ
+rauhallinen | rauhallinen | ruhig | Adjektiv, Nominativ
+asuinalue | asuinalue | Wohngebiet | Nominativ Sg.; asuin- + alue
+asuminen | asuminen | das Wohnen | Nominativ; asua + -minen
+kallista | kallis | teuer | Partitiv Sg. (Prädikativ zu abstraktem Subjekt)
+opiskelijana | opiskelija | Student(in) | Essiv: „als Student“
+asuntolassa | asuntola | Wohnheim | Inessiv
+kaupungin | kaupunki | Stadt | Genitiv Sg.; Stufenwechsel nk → ng
+asukasluku | asukasluku | Einwohnerzahl | Nominativ Sg.
+nopeasti | nopea | schnell | Adverb (-sti)
+olemme | olla | sein | Präsens 1. Pl.
+asuneet | asua | wohnen | Partizip Perfekt Plural: olemme asuneet
+tässä | tämä | dies(er) | Inessiv: „in diesem“
+talossa | talo | Haus | Inessiv
+kymmenen | kymmenen | zehn | Grundzahl
+asuntojen | asunto | Wohnung | Genitiv Plural
+hinnat | hinta | Preis | Nominativ Plural; Stufenwechsel nt → nn
+ovat | olla | sein | Präsens 3. Pl.
+nousseet | nousta | steigen | Partizip Perfekt Plural
+erityisesti | erityinen | besonders | Adverb (-sti)
+suurissa | suuri | groß | Inessiv Plural
+kaupungeissa | kaupunki | Stadt | Inessiv Plural; Stufenwechsel nk → ng
+voisin | voida | können | Konditional 1. Sg.: „ich könnte“
+valita | valita | wählen | Infinitiv
+asuisin | asua | wohnen | Konditional 1. Sg.: „ich würde wohnen“
+meren | meri | Meer | Genitiv Sg.; Stamm mere-
+rannalla | ranta | Ufer, Strand | Adessiv: „am Ufer“; Stufenwechsel nt → nn
+# --- fam-tietaa ---
+en | ei (Verneinungsverb) | nicht | Verneinungsverb, 1. Sg. (minä en …)
+tiedä | tietää | wissen | verneinte Form (en tiedä); Stufenwechsel t → d
+asuu | asua | wohnen | Präsens 3. Sg.
+tiedätkö | tietää | wissen | Präsens 2. Sg. + Fragepartikel -kö; Stufenwechsel t → d
+mihin | mikä | was | Illativ: mihin aikaan = um wie viel Uhr
+aikaan | aika | Zeit | Illativ: mihin aikaan = wann (Uhrzeit)
+kauppa | kauppa | Laden; Handel | Nominativ Sg.
+sulkeutuu | sulkeutua | schließen (intransitiv) | Präsens 3. Sg.
+tietokoneeni | tietokone | Computer | Nominativ + -ni „mein“; Stamm tietokonee-
+hidas | hidas | langsam | Adjektiv, Nominativ
+kiitos | kiitos | danke | kiitos + Elativ = danke für
+tiedosta | tieto | Information | Elativ (-sta); Stufenwechsel t → d
+tarvitsen | tarvita | brauchen | Präsens 1. Sg.
+lisää | lisä | mehr | Partitiv als Mengenwort: lisää = mehr
+tietoa | tieto | Wissen, Information | Partitiv Sg.
+tästä | tämä | dies(er) | Elativ: „über dieses“
+asiasta | asia | Sache | Elativ: „über/zu (der Sache)“
+tiede | tiede | Wissenschaft | Nominativ Sg.; Stamm tietee-
+kehittyy | kehittyä | sich entwickeln | Präsens 3. Sg.
+ajan | aika | Zeit | Akkusativ Sg.: koko ajan = ständig; Stufenwechsel k → j
+lukee | lukea | lesen | Präsens 3. Sg.
+mielellään | mielellään | gern | Adverb (+ Possessivsuffix der 3. Person)
+tieteellisiä | tieteellinen | wissenschaftlich | Partitiv Plural; Stamm tieteellis-
+artikkeleita | artikkeli | Artikel | Partitiv Plural (-eita)
+artikkeleja | artikkeli | Artikel | Partitiv Plural (Nebenform -eja)
+yritys | yritys | Firma; Versuch | Nominativ Sg.
+tiedotti | tiedottaa | informieren, bekanntgeben | Imperfekt 3. Sg.; Stufenwechsel tt → t
+uutisesta | uutinen | Nachricht, Neuigkeit | Elativ; Stamm uutise-
+kaupunki | kaupunki | Stadt | Nominativ Sg.
+julkaisi | julkaista | veröffentlichen | Imperfekt 3. Sg.
+tiedotteen | tiedote | Mitteilung | Akkusativ Sg.; Stamm tiedottee-
+uudesta | uusi | neu | Elativ; Stamm uude-
+sillasta | silta | Brücke | Elativ; Stufenwechsel lt → ll
+täysin | täysin | völlig | Adverb
+tietämätön | tietämätön | ahnungslos, unwissend | Adjektiv; tietää + -mätön
+ongelmasta | ongelma | Problem | Elativ: „von/über (dem Problem)“
+oletko | olla | sein | Präsens 2. Sg. + -ko
+tietoinen | tietoinen | bewusst | Adjektiv; tieto + -inen
+riskeistä | riski | Risiko | Elativ Plural
+tiennyt | tietää | wissen | Partizip Perfekt (t + n → nn)
+sen | se | es, das | Akkusativ/Genitiv Sg.
+etukäteen | etukäteen | im Voraus | Adverb
+tullut | tulla | kommen | Partizip Perfekt
+tietokoneiden | tietokone | Computer | Genitiv Plural
+avulla | apu | Hilfe | Adessiv als Postposition: jonkin avulla = mithilfe von; Stufenwechsel p → v
+tutkijat | tutkija | Forscher(in) | Nominativ Plural
+voivat | voida | können | Präsens 3. Pl.
+käsitellä | käsitellä | bearbeiten, verarbeiten | Infinitiv (Typ 3)
+valtavia | valtava | riesig | Partitiv Plural
+määriä | määrä | Menge | Partitiv Plural
+tieteellisen | tieteellinen | wissenschaftlich | Genitiv Sg.
+tutkimuksen | tutkimus | Studie, Forschung | Genitiv Sg.; Stamm tutkimukse-
+tuloksista | tulos | Ergebnis | Elativ Plural; Stamm tulokse-
+tiedotettiin | tiedottaa | informieren | Passiv Imperfekt („es wurde informiert“)
+medialle | media | Medien | Allativ: „den Medien“
+vasta | vasta | erst | Adverb
+seuraavana | seuraava | folgend, nächst | Essiv: seuraavana päivänä = am nächsten Tag
+päivänä | päivä | Tag | Essiv (Zeitangabe)
+# --- fam-kauppa ---
+kauppaan | kauppa | Laden | Illativ: „in den Laden“
+leipää | leipä | Brot | Partitiv Sg. (unbestimmte Menge)
+kaupasta | kauppa | Laden | Elativ: „aus dem Laden“; Stufenwechsel pp → p
+pieni | pieni | klein | Adjektiv, Nominativ
+kiinni | kiinni | zu, geschlossen | Adverb
+sunnuntaisin | sunnuntai | Sonntag | Instruktiv Plural: „sonntags“
+kauppatorilla | kauppatori | Marktplatz | Adessiv: „auf dem Marktplatz“
+myydään | myydä | verkaufen | Passiv Präsens: „wird verkauft“
+kalaa | kala | Fisch | Partitiv Sg.
+marjoja | marja | Beere | Partitiv Plural
+kauppias | kauppias | Händler(in) | Nominativ Sg.; Stamm kauppiaa-
+suositteli | suositella | empfehlen | Imperfekt 3. Sg.
+juustoa | juusto | Käse | Partitiv Sg.
+vanhassa | vanha | alt | Inessiv
+kauppahallissa | kauppahalli | Markthalle | Inessiv
+monta | moni | viele | monta + Partitiv Sg.
+pientä | pieni | klein | Partitiv Sg.; Stamm pien-
+kahvilaa | kahvila | Café | Partitiv Sg.
+uusi | uusi | neu | Adjektiv, Nominativ
+kauppakeskus | kauppakeskus | Einkaufszentrum | Nominativ Sg.; Stamm kauppakeskukse-
+avataan | avata | öffnen, eröffnen | Passiv Präsens: „wird eröffnet“
+ensi | ensi | nächste(r) | unveränderlich: ensi viikolla = nächste Woche
+suomi | Suomi | Finnland | Nominativ Sg.
+käy | käydä | gehen; treiben | Präsens 3. Sg.: käydä kauppaa = Handel treiben
+kauppaa | kauppa | Handel | Partitiv Sg.
+ruotsin | Ruotsi | Schweden | Genitiv Sg. (vor kanssa)
+kanssa | kanssa | mit | Postposition mit Genitiv
+kauppiaat | kauppias | Händler(in) | Nominativ Plural
+avaavat | avata | öffnen | Präsens 3. Pl.
+kojunsa | koju | (Markt-)Stand | Akkusativ Plural + -nsa „ihre“
+aikaisin | aikaisin | früh | Adverb
+aamulla | aamu | Morgen | Adessiv: „am Morgen“
+myyjä | myyjä | Verkäufer(in) | Nominativ Sg.; myydä + -jä
+yritti | yrittää | versuchen | Imperfekt 3. Sg.
+kaupata | kaupata | anpreisen, verkaufen wollen | Infinitiv (Typ 4)
+kalliin | kallis | teuer | Akkusativ Sg.; Stamm kallii-
+puhelimen | puhelin | Telefon | Akkusativ Sg.; Stamm puhelime-
+kaupallinen | kaupallinen | kommerziell | Adjektiv; kauppa + -llinen
+radiokanava | radiokanava | Radiosender | Nominativ Sg.
+elokuva | elokuva | Film | Nominativ Sg.
+menestys | menestys | Erfolg | Nominativ Sg.
+kaupankäynti | kaupankäynti | Handel | Nominativ Sg.; kaupan + käynti
+venäjän | Venäjä | Russland | Genitiv Sg. (vor kanssa)
+vähentynyt | vähentyä | abnehmen, zurückgehen | Partizip Perfekt
+huomattavasti | huomattava | deutlich, beträchtlich | Adverb (-sti)
+lähempänä | lähellä | nah | Komparativ (Essiv): „näher“
+kävisin | käydä | besuchen, gehen | Konditional 1. Sg.: „ich würde (hin)gehen“
+siellä | siellä | dort | Adverb
+useammin | usein | oft | Komparativ: „öfter“
+# --- Familienmitglieder (Grundformen) ---
+kirje | kirje | Brief | Nominativ Sg.; Stamm kirjee-
+kirjain | kirjain | Buchstabe | Nominativ Sg.; Stamm kirjaime-
+kirjallisuus | kirjallisuus | Literatur | Nominativ Sg.
+kirja | kirja | Buch | Nominativ Sg.
+oppia | oppia | lernen | Infinitiv (Typ 1)
+oppilas | oppilas | Schüler(in) | Nominativ Sg.; Stamm oppilaa-
+opiskella | opiskella | studieren | Infinitiv (Typ 3)
+oppikirja | oppikirja | Lehrbuch | Nominativ Sg.
+puhella | puhella | plaudern | Infinitiv (Typ 3)
+puhua | puhua | sprechen | Infinitiv (Typ 1)
+puhe | puhe | Rede | Nominativ Sg.; Stamm puhee-
+puhelin | puhelin | Telefon | Nominativ Sg.; Stamm puhelime-
+työ | työ | Arbeit | Nominativ Sg.
+työskennellä | työskennellä | arbeiten | Infinitiv (Typ 3)
+työpaikka | työpaikka | Arbeitsplatz | Nominativ Sg.
+matkustaja | matkustaja | Reisende(r) | Nominativ Sg.
+matkailija | matkailija | Tourist(in) | Nominativ Sg.
+matkalaukku | matkalaukku | Koffer | Nominativ Sg.
+matkalippu | matkalippu | Fahrkarte | Nominativ Sg.
+asua | asua | wohnen | Infinitiv (Typ 1)
+asunto | asunto | Wohnung | Nominativ Sg.; Stamm asunno-
+asukas | asukas | Bewohner(in) | Nominativ Sg.; Stamm asukkaa-
+asuntola | asuntola | Wohnheim | Nominativ Sg.
+tietää | tietää | wissen | Infinitiv (Typ 1)
+tieto | tieto | Wissen, Information | Nominativ Sg.
+tietokone | tietokone | Computer | Nominativ Sg.
+tieteellinen | tieteellinen | wissenschaftlich | Nominativ Sg.
+tiedottaa | tiedottaa | informieren | Infinitiv (Typ 1)
+tiedote | tiedote | Mitteilung | Nominativ Sg.; Stamm tiedottee-
+kauppahalli | kauppahalli | Markthalle | Nominativ Sg.
+kauppatori | kauppatori | Marktplatz | Nominativ Sg.
+# --- Lesetexte ---
+hei | hei | hallo | Grußwort
+anna | Anna | Anna | Vorname (auch: anna = „gib!“, Imperativ von antaa)
+saksasta | Saksa | Deutschland | Elativ: „aus Deutschland“
+tänään | tänään | heute | Adverb
+juon | juoda | trinken | Präsens 1. Sg.
+kahvia | kahvi | Kaffee | Partitiv Sg. (unbestimmte Menge)
+sitten | sitten | dann | Adverb
+lautalla | lautta | Fähre | Adessiv: „mit der Fähre“; Stufenwechsel tt → t
+suomenlinnaan | Suomenlinna | Suomenlinna (Seefestung vor Helsinki) | Illativ: „nach Suomenlinna“
+iltapäivällä | iltapäivä | Nachmittag | Adessiv: „am Nachmittag“
+käyn | käydä | besuchen, (kurz) hingehen | Präsens 1. Sg.
+oodissa | Oodi | Oodi (Zentralbibliothek in Helsinki) | Inessiv
+se | se | es, das | Demonstrativ-/Personalpronomen, Nominativ
+illalla | ilta | Abend | Adessiv: „am Abend“; Stufenwechsel lt → ll
+syön | syödä | essen | Präsens 1. Sg.
+ravintolassa | ravintola | Restaurant | Inessiv
+ystäväni | ystävä | Freund(in) | Genitiv + -ni „mein“ (vor kanssa)
+helsinki | Helsinki | Helsinki | Nominativ
+kaunis | kaunis | schön | Adjektiv, Nominativ
+meillä | me | wir | Adessiv: meillä on = wir haben
+kesämökki | kesämökki | Sommerhaus | Nominativ Sg.
+järven | järvi | See | Genitiv Sg.; Stamm järve-
+sinne | sinne | dorthin | Adverb (Richtung)
+joka | joka | jede(r); der/die/das (Relativ) | unveränderlich: joka kesä = jeden Sommer
+kesä | kesä | Sommer | Nominativ (joka kesä = jeden Sommer)
+heinäkuussa | heinäkuu | Juli | Inessiv: „im Juli“
+mökillä | mökki | Hütte, Sommerhaus | Adessiv: „im Sommerhaus“; Stufenwechsel kk → k
+ole | olla | sein | verneinte Form (ei ole)
+sähköä | sähkö | Strom, Elektrizität | Partitiv Sg. (nach Verneinung)
+sauna | sauna | Sauna | Nominativ Sg.
+lämmitämme | lämmittää | heizen, wärmen | Präsens 1. Pl.; Stufenwechsel tt → t
+saunan | sauna | Sauna | Akkusativ/Genitiv Sg.
+ilta | ilta | Abend | Nominativ (joka ilta = jeden Abend)
+uimme | uida | schwimmen | Präsens 1. Pl.
+järvessä | järvi | See | Inessiv: „im See“
+vesi | vesi | Wasser | Nominativ Sg.; Stamm vete-/vede-
+kylmää | kylmä | kalt | Partitiv Sg. (Prädikativ zu Stoffnomen vesi)
+tuntuu | tuntua | sich anfühlen | Präsens 3. Sg.; tuntua + Ablativ
+hyvältä | hyvä | gut | Ablativ: tuntuu hyvältä = fühlt sich gut an
+istumme | istua | sitzen | Präsens 1. Pl.
+terassilla | terassi | Terrasse | Adessiv: „auf der Terrasse“
+kuuntelemme | kuunnella | zuhören | Präsens 1. Pl.; Stufenwechsel nn → nt
+lintuja | lintu | Vogel | Partitiv Plural
+mikko | Mikko | Mikko | Vorname
+viestistäsi | viesti | Nachricht | Elativ + -si „deiner“: kiitos + Elativ
+valitettavasti | valitettava | leider | Adverb (-sti)
+pääse | päästä | (hin)kommen können | verneinte Form (en pääse = ich kann nicht kommen)
+lauantaina | lauantai | Samstag | Essiv: „am Samstag“
+juhliisi | juhlat | Feier, Party | Illativ Plural + -si „zu deiner“
+koska | koska | weil | Konjunktion
+minun | minä | ich | Genitiv: minun täytyy = ich muss
+täytyy | täytyä | müssen | Präsens 3. Sg., unpersönlich mit Genitiv
+mennä | mennä | gehen | Infinitiv
+työpaikallani | työpaikka | Arbeitsplatz | Adessiv + -ni „meinem“; Stufenwechsel kk → k
+kiirettä | kiire | Eile, Hektik | Partitiv Sg.; Stamm kiiree-
+yksi | yksi | eins, ein | Grundzahl
+työntekijä | työntekijä | Arbeitnehmer(in), Kolleg(in) | Nominativ Sg.
+sairaana | sairas | krank | Essiv: olla sairaana = krank sein (vorübergehend)
+voisimmeko | voida | können | Konditional 1. Pl. + -ko: „könnten wir?“
+nähdä | nähdä | sehen; sich treffen | Infinitiv
+sunnuntaina | sunnuntai | Sonntag | Essiv: „am Sonntag“
+tulla | tulla | kommen | Infinitiv
+sinun | sinä | du | Genitiv: sinun luoksesi = zu dir
+luoksesi | luo | zu (jemandem) | Postposition luo + -ksesi: „zu dir“
+kahdelta | kaksi | zwei | Ablativ: Uhrzeit „um zwei“
+otan | ottaa | nehmen | Präsens 1. Sg.; ottaa mukaan = mitnehmen
+kakkua | kakku | Kuchen | Partitiv Sg.
+mukaan | mukaan | mit; laut, gemäß | Adverb: ottaa mukaan = mitnehmen; Postposition mit Genitiv: jonkun mukaan = laut jemandem
+soita | soittaa | anrufen | Imperativ 2. Sg.
+ehdit | ehtiä | Zeit haben, es schaffen | Präsens 2. Sg.; Stufenwechsel t → d
+terveisin | terveiset | Grüße | Instruktiv Plural: „mit Grüßen“ (Briefschluss)
+laura | Laura | Laura | Vorname
+suomessa | Suomi | Finnland | Inessiv: „in Finnland“
+neljä | neljä | vier | Grundzahl
+selvää | selvä | klar, deutlich | Partitiv Sg. (nach Zahl)
+vuodenaikaa | vuodenaika | Jahreszeit | Partitiv Sg. (nach Zahl)
+aurinko | aurinko | Sonne | Nominativ Sg.
+paistaa | paistaa | scheinen; braten | Präsens 3. Sg.
+ympäri | ympäri | rund um | Präposition: ympäri vuorokauden = rund um die Uhr
+vuorokauden | vuorokausi | 24 Stunden, Tag und Nacht | Akkusativ/Genitiv Sg.; Stamm vuorokaude-
+eikä | ei (Verneinungsverb) + -kä | und nicht | Verneinungsverb 3. Sg. + -kä („und nicht“)
+yöllä | yö | Nacht | Adessiv: „in der Nacht“
+tule | tulla | kommen; werden | verneinte Form: ei tule pimeää = es wird nicht dunkel
+pimeää | pimeä | dunkel | Partitiv Sg.
+tätä | tämä | dies | Partitiv Sg.
+kutsutaan | kutsua | nennen; einladen | Passiv Präsens: „man nennt“
+yöttömäksi | yötön | nachtlos | Translativ; yö + -tön (ohne Nacht)
+yöksi | yö | Nacht | Translativ: kutsua + Translativ = nennen als
+talvella | talvi | Winter | Adessiv: „im Winter“
+tilanne | tilanne | Lage, Situation | Nominativ Sg.
+päinvastainen | päinvastainen | umgekehrt | Adjektiv, Nominativ
+pohjoisessa | pohjoinen | Norden | Inessiv: „im Norden“
+nouse | nousta | aufgehen, steigen | verneinte Form (ei nouse)
+ollenkaan | ollenkaan | überhaupt (nicht) | Adverb in verneinten Sätzen
+moneen | moni | viele | Illativ: moneen viikkoon = viele Wochen lang (verneint)
+viikkoon | viikko | Woche | Illativ: Zeitraum in verneinten Sätzen
+kaamokseksi | kaamos | Polarnacht, dunkle Zeit | Translativ; Stamm kaamokse-
+ihmiset | ihminen | Mensch | Nominativ Plural
+tuntevat | tuntea | fühlen; kennen | Präsens 3. Pl.
+itsensä | itse | selbst | Akkusativ + -nsa: tuntea itsensä = sich fühlen
+silloin | silloin | dann, damals | Adverb
+väsyneiksi | väsynyt | müde | Translativ Plural: tuntea itsensä + Translativ
+kaamosaikana | kaamosaika | Zeit der Polarnacht | Essiv: „während der Kaamoszeit“
+auttavat | auttaa | helfen | Präsens 3. Pl.
+kirkkaat | kirkas | hell, klar | Nominativ Plural; Stamm kirkkaa-
+lamput | lamppu | Lampe | Nominativ Plural; Stufenwechsel pp → p
+liikunta | liikunta | Bewegung, Sport | Nominativ Sg.
+ulkoilu | ulkoilu | Bewegung im Freien | Nominativ Sg.
+päivänvalossa | päivänvalo | Tageslicht | Inessiv: „bei Tageslicht“
+keväällä | kevät | Frühling | Adessiv: „im Frühling“; Stamm kevää-
+valo | valo | Licht | Nominativ Sg.
+palaa | palata | zurückkehren | Präsens 3. Sg. (Achtung: auch palaa „brennt“ von palaa)
+heräävät | herätä | aufwachen | Präsens 3. Pl.
+taas | taas | wieder | Adverb
+eloon | elo | Leben | Illativ: herätä eloon = zum Leben erwachen
+mari | Mari | Mari | Vorname
+haki | hakea | suchen; sich bewerben | Imperfekt 3. Sg.: hakea töitä = sich um Arbeit bewerben
+töitä | työ | Arbeit | Partitiv Plural
+pienestä | pieni | klein | Elativ
+ohjelmistoyrityksestä | ohjelmistoyritys | Softwarefirma | Elativ; Stamm ohjelmistoyritykse-
+tampereelta | Tampere | Tampere | Ablativ: „aus Tampere“
+hänet | hän | er, sie | Akkusativ (Personalpronomen)
+kutsuttiin | kutsua | einladen | Passiv Imperfekt: „wurde eingeladen“
+työhaastatteluun | työhaastattelu | Vorstellungsgespräch | Illativ
+tiistaina | tiistai | Dienstag | Essiv: „am Dienstag“
+valmistautui | valmistautua | sich vorbereiten | Imperfekt 3. Sg.
+huolellisesti | huolellinen | sorgfältig | Adverb (-sti)
+luki | lukea | lesen | Imperfekt 3. Sg.
+yrityksen | yritys | Firma | Genitiv Sg.
+verkkosivut | verkkosivu | Website | Nominativ Plural (Objekt, ganz)
+mietti | miettiä | überlegen | Imperfekt 3. Sg.
+mitä | mikä | was | Partitiv: „was“
+vastaisi | vastata | antworten | Konditional 3. Sg.
+tavallisiin | tavallinen | gewöhnlich, üblich | Illativ Plural
+kysymyksiin | kysymys | Frage | Illativ Plural: vastata + Illativ
+haastattelussa | haastattelu | Interview, Gespräch | Inessiv
+esimies | esimies | Vorgesetzte(r) | Nominativ Sg.
+miksi | miksi | warum | Fragewort
+halusi | haluta | wollen | Imperfekt 3. Sg.
+vaihtaa | vaihtaa | wechseln | Infinitiv
+kertoi | kertoa | erzählen | Imperfekt 3. Sg.
+työskennellyt | työskennellä | arbeiten | Partizip Perfekt: oli työskennellyt = hatte gearbeitet
+samassa | sama | gleich, derselbe | Inessiv
+kuusi | kuusi | sechs | Grundzahl
+kaipasi | kaivata | vermissen, sich sehnen | Imperfekt 3. Sg.; Stufenwechsel p → v (kaipaan, kaivata)
+uusia | uusi | neu | Partitiv Plural
+haasteita | haaste | Herausforderung | Partitiv Plural
+myös | myös | auch | Adverb
+osaavansa | osata | können | Partizipialkonstruktion: kertoi osaavansa = erzählte, dass sie könne
+lisäksi | lisä | Zusatz | Translativ als Postposition: jonkin lisäksi = zusätzlich zu
+milloin | milloin | wann | Fragewort
+voisi | voida | können | Konditional 3. Sg.
+aloittaa | aloittaa | anfangen | Infinitiv
+päivää | päivä | Tag | Partitiv Sg. (nach Zahl)
+myöhemmin | myöhemmin | später | Adverb (Komparativ)
+soi | soida | klingeln | Imperfekt 3. Sg. (auch Präsens)
+sai | saada | bekommen | Imperfekt 3. Sg.
+paikan | paikka | Platz, Stelle | Akkusativ Sg.; Stufenwechsel kk → k
+koivulan | Koivula | Koivula (fiktive Stadt) | Genitiv
+kaupunginkirjasto | kaupunginkirjasto | Stadtbibliothek | Nominativ Sg.
+rikkoi | rikkoa | brechen | Imperfekt 3. Sg.
+lainausennätyksensä | lainausennätys | Ausleihrekord | Akkusativ + -nsa „ihren“
+lainattiin | lainata | ausleihen | Passiv Imperfekt: „wurde ausgeliehen“
+yhteensä | yhteensä | insgesamt | Adverb
+yli | yli | über, mehr als | Präposition
+elokuvaa | elokuva | Film | Partitiv Sg.
+muuta | muu | ander(e) | Partitiv Sg.
+aineistoa | aineisto | Material, Medien | Partitiv Sg.
+suurin | suuri | groß | Superlativ: „größte“
+historiassa | historia | Geschichte | Inessiv
+johtajan | johtaja | Leiter(in) | Genitiv Sg.
+leena | Leena | Leena | Vorname
+virtasen | Virtanen | Virtanen | Genitiv (Nachname): Virtasen mukaan = laut Virtanen
+kasvu | kasvu | Wachstum | Nominativ Sg.
+johtuu | johtua | herrühren, beruhen | Präsens 3. Sg.; johtua + Elativ
+uusista | uusi | neu | Elativ Plural
+palveluista | palvelu | Dienstleistung, Angebot | Elativ Plural
+nykyään | nykyään | heutzutage | Adverb
+lainata | lainata | ausleihen | Infinitiv (Typ 4)
+työkaluja | työkalu | Werkzeug | Partitiv Plural
+soittimia | soitin | Musikinstrument | Partitiv Plural; Stamm soittime-
+urheiluvälineitä | urheiluväline | Sportgerät | Partitiv Plural
+järjestetään | järjestää | veranstalten | Passiv Präsens: „wird veranstaltet“
+viikko | viikko | Woche | Nominativ (joka viikko = jede Woche)
+kielikahviloita | kielikahvila | Sprachcafé | Partitiv Plural
+joissa | joka | der/die/das (Relativ) | Inessiv Plural: „in denen“
+maahanmuuttajat | maahanmuuttaja | Zugewanderte(r) | Nominativ Plural
+harjoitella | harjoitella | üben | Infinitiv (Typ 3)
+puhumista | puhuminen | das Sprechen | Partitiv Sg.
+enää | enää | nicht mehr (in Verneinung) | Adverb
+pelkkä | pelkkä | bloß, nur | Adjektiv, Nominativ
+kirjojen | kirja | Buch | Genitiv Plural
+lainauspaikka | lainauspaikka | Ausleihstelle | Nominativ Sg.
+siitä | se | es | Elativ: siitä on tullut = daraus ist geworden
+kaupunkilaisten | kaupunkilainen | Stadtbewohner(in) | Genitiv Plural
+yhteinen | yhteinen | gemeinsam | Adjektiv, Nominativ
+olohuone | olohuone | Wohnzimmer | Nominativ Sg.
+virtanen | Virtanen | Virtanen | Nachname, Nominativ
+sanoo | sanoa | sagen | Präsens 3. Sg.
+aukioloaikoja | aukioloaika | Öffnungszeit | Partitiv Plural (aika → aikoja)
+aiotaan | aikoa | vorhaben | Passiv Präsens: „man hat vor“; Stufenwechsel k → –
+pidentää | pidentää | verlängern | Infinitiv
+viikonloppuisin | viikonloppu | Wochenende | Instruktiv Plural: „an Wochenenden“
+aikuiset | aikuinen | Erwachsene(r) | Nominativ Plural
+ajattelevat | ajatella | denken | Präsens 3. Pl.
+mahdollista | mahdollinen | möglich | Partitiv Sg. (Prädikativ zu -minen-Subjekt)
+vain | vain | nur | Adverb
+tutkimusten | tutkimus | Studie | Genitiv Plural: tutkimusten mukaan = laut Studien
+kuitenkaan | kuitenkaan | jedoch (in Verneinung) | Adverb
+pidä | pitää | halten | verneinte Form: ei pidä paikkaansa = stimmt nicht
+paikkaansa | paikka | Platz | Partitiv + -nsa: pitää paikkansa = zutreffen
+aikuinen | aikuinen | Erwachsene(r) | Nominativ Sg.
+jopa | jopa | sogar | Adverb
+nopeammin | nopea | schnell | Adverb Komparativ: „schneller“
+kuin | kuin | als; wie | Vergleichspartikel
+käyttää | käyttää | benutzen | Infinitiv
+oppimisstrategioita | oppimisstrategia | Lernstrategie | Partitiv Plural
+ymmärtää | ymmärtää | verstehen | Präsens 3. Sg.
+kieliopin | kielioppi | Grammatik | Genitiv Sg.; Stufenwechsel pp → p
+rakenteita | rakenne | Struktur | Partitiv Plural; Stamm rakentee-
+lapsella | lapsi | Kind | Adessiv: lapsella on = das Kind hat
+toki | toki | freilich, zwar | Adverb
+etuna | etu | Vorteil | Essiv: olla etuna = von Vorteil sein
+omaksuu | omaksua | sich aneignen | Präsens 3. Sg.
+ääntämisen | ääntäminen | Aussprache | Akkusativ Sg.; Stamm ääntämise-
+helpommin | helppo | leicht | Adverb Komparativ: „leichter“
+oma | oma | eigen | Adjektiv, Nominativ
+kokemukseni | kokemus | Erfahrung | Nominativ + -ni „meine“
+opiskelusta | opiskelu | das Studieren, Lernen | Elativ: „über das Lernen“
+turhauttava | turhauttava | frustrierend | Partizip Präsens als Adjektiv
+palkitseva | palkitseva | lohnend | Partizip Präsens als Adjektiv
+aluksi | alku | Anfang | Translativ als Adverb: „anfangs“
+sijamuodot | sijamuoto | Kasus, Fall | Nominativ Plural; Stufenwechsel t → d
+tuntuivat | tuntua | sich anfühlen, scheinen | Imperfekt 3. Pl.
+mahdottomilta | mahdoton | unmöglich | Ablativ Plural: tuntua + Ablativ
+jokainen | jokainen | jede(r) | Pronomen, Nominativ
+keskustelu | keskustelu | Gespräch | Nominativ Sg.
+kaupassa | kauppa | Laden | Inessiv: „im Laden“
+jännitti | jännittää | nervös machen | Imperfekt 3. Sg.
+minua | minä | ich | Partitiv: „mich“
+vähitellen | vähitellen | nach und nach | Adverb
+huomasin | huomata | bemerken | Imperfekt 1. Sg.
+kuitenkin | kuitenkin | jedoch | Adverb
+kieli | kieli | Sprache | Nominativ Sg.
+täynnä | täynnä | voll | Adverb: täynnä + Partitiv = voller
+logiikkaa | logiikka | Logik | Partitiv Sg.
+sanat | sana | Wort | Nominativ Plural
+muodostetaan | muodostaa | bilden | Passiv Präsens: „werden gebildet“
+samasta | sama | derselbe | Elativ
+vartalosta | vartalo | (Wort-)Stamm; Körper | Elativ
+sanavarastoni | sanavarasto | Wortschatz | Nominativ + -ni „mein“
+alkoi | alkaa | anfangen | Imperfekt 3. Sg.
+kasvaa | kasvaa | wachsen | Infinitiv
+itsestään | itse | selbst | Elativ + -än: kuin itsestään = wie von selbst
+esimerkiksi | esimerkki | Beispiel | Translativ als Adverb: „zum Beispiel“
+sanasta | sana | Wort | Elativ: „aus dem Wort“
+syntyvät | syntyä | entstehen | Präsens 3. Pl.
+mielestäni | mieli | Meinung | Elativ + -ni: „meiner Meinung nach“
+tärkeintä | tärkeä | wichtig | Superlativ, Partitiv: „das Wichtigste“
+virheettömyys | virheettömyys | Fehlerfreiheit | Nominativ; virhe + -tön + -yys
+vaan | vaan | sondern | Konjunktion nach Verneinung
+rohkeus | rohkeus | Mut | Nominativ Sg.
+suomalaiset | suomalainen | Finne, Finnin | Nominativ Plural
+arvostavat | arvostaa | schätzen | Präsens 3. Pl.
+jokaista | jokainen | jede(r) | Partitiv Sg.
+yrittää | yrittää | versuchen | Präsens 3. Sg.
+heidän | he | sie (Pl.) | Genitiv: „ihr(e)“
+kieltään | kieli | Sprache | Partitiv + -än: „ihre Sprache“
+kömpelöä | kömpelö | unbeholfen, holprig | Partitiv Sg.
+väline | väline | Werkzeug, Mittel | Nominativ Sg.
+avain | avain | Schlüssel | Nominativ Sg.; Stamm avaime-
+toiseen | toinen | ander(e) | Illativ
+kulttuuriin | kulttuuri | Kultur | Illativ: avain johonkin = Schlüssel zu
+ihmisiin | ihminen | Mensch | Illativ Plural
+siksi | siksi | deshalb | Adverb
+suosittelen | suositella | empfehlen | Präsens 1. Sg.; Stufenwechsel tt → t
+kielten | kieli | Sprache | Genitiv Plural (auch kielien)
+opiskelua | opiskelu | das Lernen, Studium | Partitiv Sg.
+jokaiselle | jokainen | jede(r) | Allativ: „jedem“
+iästä | ikä | Alter | Elativ: iästä riippumatta = unabhängig vom Alter
+riippumatta | riippua | abhängen | 3. Infinitiv Abessiv: „ohne abzuhängen“ = unabhängig von
 `,
 };

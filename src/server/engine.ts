@@ -532,8 +532,10 @@ export class Engine {
   private buildReading(s: Session, t: TextRow): Exercise {
     const topicId = t.topic ?? this.content.topicList[0]?.id ?? "";
     const topic = this.content.topics.get(topicId);
+    const base = this.exBase(s, "reading", t.id, topicId, t.level + TYPE_BONUS.reading);
+    if (!t.topic) base.topicTitle = "Lesen & Verstehen";
     return {
-      ...this.exBase(s, "reading", t.id, topicId, t.level + TYPE_BONUS.reading),
+      ...base,
       instruction: "Lies den Text und beantworte die Fragen.",
       fi: t.fi, de: t.de,
       reading: { title: t.title, fi: t.fi, de: t.de, questions: t.questions },
